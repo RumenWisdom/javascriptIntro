@@ -1,6 +1,6 @@
-let names= 'Igbinosa Osarumen'; 
-let height= '5ft 4In';
-let country= 'Nigeria'
+let names= 'Names: Igbinosa Osarumen'; 
+let height= 'Height: 5ft 4In';
+let country= 'Country: Nigeria';
 
 console.log(names);
 console.log(height);
